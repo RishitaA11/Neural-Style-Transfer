@@ -4,7 +4,9 @@
 ### What is Style Transfer?
 Neural style transfer is an artificial system based on the Deep Neural Network which extracts the structural features from a content image and the style features from a style image to create a new artistic image.
 
-![image-2.png](attachment:image-2.png)
+
+![image](https://github.com/RishitaA11/Neural-Style-Transfer/assets/81975220/cd926e09-7da9-4262-84dd-dacac63351b3)
+
 
 Here, a pre-trained VGG19 network’s convolutional neural network is used to perform the style transfer.
 
